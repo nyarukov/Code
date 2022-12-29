@@ -1,0 +1,12 @@
+D:\Project\Visual Studio\Halcon\区域提取\区域提取\bin\Debug\区域提取.exe.config
+D:\Project\Visual Studio\Halcon\区域提取\区域提取\bin\Debug\区域提取.exe
+D:\Project\Visual Studio\Halcon\区域提取\区域提取\bin\Debug\区域提取.pdb
+D:\Project\Visual Studio\Halcon\区域提取\区域提取\bin\Debug\halcondotnet.dll
+D:\Project\Visual Studio\Halcon\区域提取\区域提取\bin\Debug\HZH_Controls.dll
+D:\Project\Visual Studio\Halcon\区域提取\区域提取\obj\Debug\区域提取.Properties.Resources.resources
+D:\Project\Visual Studio\Halcon\区域提取\区域提取\obj\Debug\区域提取.csproj.GenerateResource.cache
+D:\Project\Visual Studio\Halcon\区域提取\区域提取\obj\Debug\区域提取.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio\Halcon\区域提取\区域提取\obj\Debug\区域提取.csproj.CopyComplete
+D:\Project\Visual Studio\Halcon\区域提取\区域提取\obj\Debug\区域提取.exe
+D:\Project\Visual Studio\Halcon\区域提取\区域提取\obj\Debug\区域提取.pdb
+D:\Project\Visual Studio\Halcon\区域提取\区域提取\obj\Debug\区域提取.form.resources

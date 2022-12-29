@@ -1,0 +1,13 @@
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\手撕Modbus通讯\obj\Debug\手撕Modbus通讯.csproj.AssemblyReference.cache
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\手撕Modbus通讯\obj\Debug\手撕Modbus通讯.Form1.resources
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\手撕Modbus通讯\obj\Debug\手撕Modbus通讯.Properties.Resources.resources
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\手撕Modbus通讯\obj\Debug\手撕Modbus通讯.csproj.GenerateResource.cache
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\手撕Modbus通讯\obj\Debug\手撕Modbus通讯.csproj.CoreCompileInputs.cache
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\手撕Modbus通讯\bin\Debug\手撕Modbus通讯.exe.config
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\手撕Modbus通讯\bin\Debug\手撕Modbus通讯.exe
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\手撕Modbus通讯\bin\Debug\手撕Modbus通讯.pdb
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\手撕Modbus通讯\bin\Debug\Modbus.dll
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\手撕Modbus通讯\bin\Debug\Modbus.pdb
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\手撕Modbus通讯\obj\Debug\手撕Modbus通讯.csproj.CopyComplete
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\手撕Modbus通讯\obj\Debug\手撕Modbus通讯.exe
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\手撕Modbus通讯\obj\Debug\手撕Modbus通讯.pdb

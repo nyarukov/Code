@@ -1,0 +1,6 @@
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\Modbus\bin\Debug\Modbus.dll
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\Modbus\bin\Debug\Modbus.pdb
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\Modbus\obj\Debug\Modbus.dll
+Y:\Project\Visual Studio\C#.NET\手撕Modbus通讯\Modbus\obj\Debug\Modbus.pdb

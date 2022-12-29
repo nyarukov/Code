@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "bsp_usart.h": "c",
+        "bsp_i2c.h": "c",
+        "bsp_led.h": "c"
+    }
+}

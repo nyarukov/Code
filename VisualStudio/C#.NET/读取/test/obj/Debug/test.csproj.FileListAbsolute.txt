@@ -1,0 +1,15 @@
+Y:\Project\Visual Studio\C#.NET\test\test\bin\Debug\test.exe.config
+Y:\Project\Visual Studio\C#.NET\test\test\bin\Debug\test.exe
+Y:\Project\Visual Studio\C#.NET\test\test\bin\Debug\test.pdb
+Y:\Project\Visual Studio\C#.NET\test\test\bin\Debug\S7.Net.dll
+Y:\Project\Visual Studio\C#.NET\test\test\bin\Debug\S7.Net.xml
+Y:\Project\Visual Studio\C#.NET\test\test\obj\Debug\test.Properties.Resources.resources
+Y:\Project\Visual Studio\C#.NET\test\test\obj\Debug\test.csproj.GenerateResource.cache
+Y:\Project\Visual Studio\C#.NET\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+Y:\Project\Visual Studio\C#.NET\test\test\obj\Debug\test.csproj.CopyComplete
+Y:\Project\Visual Studio\C#.NET\test\test\obj\Debug\test.exe
+Y:\Project\Visual Studio\C#.NET\test\test\obj\Debug\test.pdb
+Y:\Project\Visual Studio\C#.NET\test\test\obj\Debug\test.fa.resources
+Y:\Project\Visual Studio\C#.NET\test\test\bin\Debug\thinger.DataConvertLib.dll
+Y:\Project\Visual Studio\C#.NET\test\test\bin\Debug\thinger.DataConvertLib.xml
+Y:\Project\Visual Studio\C#.NET\test\test\obj\Debug\test.csproj.AssemblyReference.cache

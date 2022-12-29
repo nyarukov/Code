@@ -1,0 +1,10 @@
+D:\Project\Visual Studio\C#.NET\倒计时\倒计时\bin\Debug\倒计时.exe.config
+D:\Project\Visual Studio\C#.NET\倒计时\倒计时\bin\Debug\倒计时.exe
+D:\Project\Visual Studio\C#.NET\倒计时\倒计时\bin\Debug\倒计时.pdb
+D:\Project\Visual Studio\C#.NET\倒计时\倒计时\obj\Debug\倒计时.csproj.AssemblyReference.cache
+D:\Project\Visual Studio\C#.NET\倒计时\倒计时\obj\Debug\倒计时.Form1.resources
+D:\Project\Visual Studio\C#.NET\倒计时\倒计时\obj\Debug\倒计时.Properties.Resources.resources
+D:\Project\Visual Studio\C#.NET\倒计时\倒计时\obj\Debug\倒计时.csproj.GenerateResource.cache
+D:\Project\Visual Studio\C#.NET\倒计时\倒计时\obj\Debug\倒计时.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio\C#.NET\倒计时\倒计时\obj\Debug\倒计时.exe
+D:\Project\Visual Studio\C#.NET\倒计时\倒计时\obj\Debug\倒计时.pdb

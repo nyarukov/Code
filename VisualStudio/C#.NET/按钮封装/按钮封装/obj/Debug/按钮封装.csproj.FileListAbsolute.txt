@@ -1,0 +1,16 @@
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\bin\Debug\按钮封装.exe.config
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\bin\Debug\按钮封装.exe
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\bin\Debug\按钮封装.pdb
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\bin\Debug\HZH_Controls.dll
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\bin\Debug\S7.Net.dll
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\bin\Debug\xktComm.dll
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\bin\Debug\xktComm.xml
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\obj\Debug\按钮封装.Form1.resources
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\obj\Debug\按钮封装.Properties.Resources.resources
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\obj\Debug\按钮封装.UBlower.resources
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\obj\Debug\按钮封装.csproj.GenerateResource.cache
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\obj\Debug\按钮封装.csproj.CoreCompileInputs.cache
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\obj\Debug\按钮封装.csproj.CopyComplete
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\obj\Debug\按钮封装.exe
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\obj\Debug\按钮封装.pdb
+Y:\Project\Visual Studio\C#.NET\按钮封装\按钮封装\obj\Debug\按钮封装.csproj.AssemblyReference.cache

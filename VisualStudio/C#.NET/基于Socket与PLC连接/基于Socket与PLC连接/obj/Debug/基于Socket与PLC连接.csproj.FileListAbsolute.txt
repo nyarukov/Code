@@ -1,0 +1,10 @@
+D:\Project\Visual Studio\C#.NET\基于Socket与PLC连接\基于Socket与PLC连接\bin\Debug\基于Socket与PLC连接.exe.config
+D:\Project\Visual Studio\C#.NET\基于Socket与PLC连接\基于Socket与PLC连接\bin\Debug\基于Socket与PLC连接.exe
+D:\Project\Visual Studio\C#.NET\基于Socket与PLC连接\基于Socket与PLC连接\bin\Debug\基于Socket与PLC连接.pdb
+D:\Project\Visual Studio\C#.NET\基于Socket与PLC连接\基于Socket与PLC连接\obj\Debug\基于Socket与PLC连接.csproj.AssemblyReference.cache
+D:\Project\Visual Studio\C#.NET\基于Socket与PLC连接\基于Socket与PLC连接\obj\Debug\基于Socket与PLC连接.Socket通讯.resources
+D:\Project\Visual Studio\C#.NET\基于Socket与PLC连接\基于Socket与PLC连接\obj\Debug\基于Socket与PLC连接.Properties.Resources.resources
+D:\Project\Visual Studio\C#.NET\基于Socket与PLC连接\基于Socket与PLC连接\obj\Debug\基于Socket与PLC连接.csproj.GenerateResource.cache
+D:\Project\Visual Studio\C#.NET\基于Socket与PLC连接\基于Socket与PLC连接\obj\Debug\基于Socket与PLC连接.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio\C#.NET\基于Socket与PLC连接\基于Socket与PLC连接\obj\Debug\基于Socket与PLC连接.exe
+D:\Project\Visual Studio\C#.NET\基于Socket与PLC连接\基于Socket与PLC连接\obj\Debug\基于Socket与PLC连接.pdb
